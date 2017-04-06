@@ -40,8 +40,8 @@ namespace ProgrammaBiblioteca
             string output = "Il titolo è " + titolo + "\r\n";
             output += "L'autore è " + autore + "\r\n";
             output += "Il codice ISBN è " + ISBN + "\r\n";
-            if (prestato) output += "Il libro è stato prestato";  //se prestato è true 
-            else output += "Il libro è disponibile per il prestito"; //se prestato è false
+            if (prestato) output += "Il libro è stato prestato" + "\r\n";  //se prestato è true 
+            else output += "Il libro è disponibile per il prestito" + "\r\n"; //se prestato è false
 
             return output;
         }

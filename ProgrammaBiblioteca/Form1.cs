@@ -43,7 +43,8 @@ namespace ProgrammaBiblioteca
 
         private void listBox1_SelectedIndexChanged(object sender, EventArgs e) //evento: quando SelectedIndex cambia
         {
-            var l = libri[listBox1.SelectedIndex];
+          var l = libri[listBox1.SelectedIndex];
+         //  Libro l = libri[listBox1.SelectedIndex];
             textBox1.Text = l.describe();
         }
 

@@ -27,3 +27,12 @@ C:\Users\Chiara\Desktop\Superiori\Informatica\C#\Programma_Biblioteca\ProgrammaB
 C:\Users\Chiara\Desktop\Superiori\Informatica\C#\Programma_Biblioteca\ProgrammaBiblioteca\obj\Debug\ProgrammaBiblioteca.Form1.resources
 C:\Users\Chiara\Desktop\Superiori\Informatica\C#\Programma_Biblioteca\ProgrammaBiblioteca\obj\Debug\ProgrammaBiblioteca.Properties.Resources.resources
 C:\Users\Chiara\Desktop\Superiori\Informatica\C#\Programma_Biblioteca\ProgrammaBiblioteca\obj\Debug\ProgrammaBiblioteca.csproj.GenerateResource.Cache
+C:\Users\Chiara\Desktop\Superiori\Informatica\C#\ProgrammaBiblioteca\ProgrammaBiblioteca\bin\Debug\ProgrammaBiblioteca.exe.config
+C:\Users\Chiara\Desktop\Superiori\Informatica\C#\ProgrammaBiblioteca\ProgrammaBiblioteca\obj\Debug\ProgrammaBiblioteca.exe
+C:\Users\Chiara\Desktop\Superiori\Informatica\C#\ProgrammaBiblioteca\ProgrammaBiblioteca\obj\Debug\ProgrammaBiblioteca.pdb
+C:\Users\Chiara\Desktop\Superiori\Informatica\C#\ProgrammaBiblioteca\ProgrammaBiblioteca\bin\Debug\ProgrammaBiblioteca.exe
+C:\Users\Chiara\Desktop\Superiori\Informatica\C#\ProgrammaBiblioteca\ProgrammaBiblioteca\bin\Debug\ProgrammaBiblioteca.pdb
+C:\Users\Chiara\Desktop\Superiori\Informatica\C#\ProgrammaBiblioteca\ProgrammaBiblioteca\obj\Debug\ProgrammaBiblioteca.csprojResolveAssemblyReference.cache
+C:\Users\Chiara\Desktop\Superiori\Informatica\C#\ProgrammaBiblioteca\ProgrammaBiblioteca\obj\Debug\ProgrammaBiblioteca.Form1.resources
+C:\Users\Chiara\Desktop\Superiori\Informatica\C#\ProgrammaBiblioteca\ProgrammaBiblioteca\obj\Debug\ProgrammaBiblioteca.Properties.Resources.resources
+C:\Users\Chiara\Desktop\Superiori\Informatica\C#\ProgrammaBiblioteca\ProgrammaBiblioteca\obj\Debug\ProgrammaBiblioteca.csproj.GenerateResource.Cache

@@ -8,22 +8,22 @@ namespace ProgrammaBiblioteca
 {
     public class Utente
     {
-        private string _nome;
+        //private string _nome;
         public string nome { get; set; } 
 
-        private string _cognome;
+       // private string _cognome;
         public string cognome { get; set; }
 
-        private string _codiceFiscale;
+        //private string _codiceFiscale;
         public string codiceFiscale { get; set; }
 
-        private DateTime _dataNascita;
+        //private DateTime _dataNascita;
         public DateTime dataNascita { get; set; }
 
-        private List<Libro> _libriPresi; //lista di libri dell'utente
+       //private List<Libro> _libriPresi; //lista di libri dell'utente
         public List<Libro> libriPresi { get; set; }
 
-        //VEDERE PER DATA DI NASCITA
+        
         public Utente(string nome, string cognome, string codiceFiscale, string dataNascita)
         {
             this.nome = nome;
